@@ -1,0 +1,4 @@
+Sitemap: http://www.boulderfoodtrucks.org/sitemap.xml
+
+User-agent: *
+Disallow:
